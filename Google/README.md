@@ -15,4 +15,4 @@ Currently, Google Takeout supports exporting data from more than 69 different Go
 
 The main categories of Google data are summarised below
 
-![Google DDP Taxonomy Mapping](Google_ddp.png)
+![Google DDP Taxonomy Mapping](Google_ddp.jpg)
