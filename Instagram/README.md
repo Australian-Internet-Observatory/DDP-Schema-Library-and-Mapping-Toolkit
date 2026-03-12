@@ -381,4 +381,4 @@ The Instagram DDP is provided as a downloadable .zip archive that is systematica
 
 The main categories of Instagram data are summarized bellow
 
-![Instagram DDP Taxonomy Mapping](instagram_ddp.png)
+![Instagram DDP Taxonomy Mapping](instagram_ddp.jpg)
