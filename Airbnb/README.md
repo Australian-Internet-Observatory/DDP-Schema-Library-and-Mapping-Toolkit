@@ -30,5 +30,5 @@ The downloaded file is provided in **.zip format**.
 
 The main categories of Airbnb data are summarised below
 
-![Airbnb DDP Taxonomy Mapping](Airbnb_ddp.png)
+![Airbnb DDP Taxonomy Mapping](Airbnb_ddp.jpg)
 
