@@ -1,0 +1,21 @@
+
+# Youtube 
+
+YouTube data can be downloaded through the Google Takeout service, which provides access to all requested data associated with a Google account. Specifically, YouTube data includes detailed information about the user’s activity and account on Youtube. The files are delivered in different formats: for example, search history and watch history are provided as HTML files, while other details are available in CSV format.
+
+The main categories of Youtube data are summarised below
+
+![Youtube DDP Taxonomy Mapping](Youtube_ddp.png)
+
+## DDP Data Schema
+### "watch and search history” HTML file from Youtube - Google.
+
+<table class="c19"><tr class="c20"><td class="c0 c15" colspan="1" rowspan="1"><p class="c11"><span class="c12">Field Name</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c11"><span class="c12">Example Value</span></p></td><td class="c2 c15" colspan="1" rowspan="1"><p class="c11"><span class="c12">Description</span></p></td></tr><tr class="c18"><td class="c0" colspan="1" rowspan="1"><p class="c3"><span class="c12">Visited or Watched Url link</span></p></td><td class="c8" colspan="1" rowspan="1"><p class="c3"><span class="c1">URL link</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c3"><span class="c1">Link to watched video or visited site</span></p></td></tr><tr class="c21"><td class="c0" colspan="1" rowspan="1"><p class="c3"><span class="c13">Searched for &ldquo;Term&rdquo;</span></p></td><td class="c8" colspan="1" rowspan="1"><p class="c3"><span class="c1">A search term &ldquo;happy birthday&rdquo;</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c3"><span class="c1">Search term</span></p></td></tr><tr class="c21"><td class="c0" colspan="1" rowspan="1"><p class="c3"><span class="c14 c13">Time and date</span></p></td><td class="c8" colspan="1" rowspan="1"><p class="c3"><span class="c13">Jun 23, 2025, 12:44:19&#8239;PM GMT+03:00</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c3"><span class="c1">Tame and date of the activity</span></p></td></tr><tr class="c21"><td class="c0" colspan="1" rowspan="1"><p class="c3"><span class="c14 c13">Products</span></p></td><td class="c8" colspan="1" rowspan="1"><p class="c3"><span class="c5">YouTube</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c3"><span class="c1">Product name </span></p></td></tr></table>
+
+
+###  Data included in the "Playlist" CSV file from Youtube - Google
+<table class="c19"><tr class="c20"><td class="c0 c15" colspan="1" rowspan="1"><p class="c11"><span class="c12">Field Name</span></p></td><td class="c2 c15" colspan="1" rowspan="1"><p class="c11"><span class="c12">Description</span></p></td></tr><tr class="c18"><td class="c0" colspan="1" rowspan="1"><p class="c11"><span class="c10">Video ID</span></p><p class="c11 c7"><span class="c10"></span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c11"><span class="c1">ID of the video in the playlist</span></p></td></tr><tr class="c21"><td class="c0" colspan="1" rowspan="1"><p class="c11"><span class="c14 c13">Playlist Video Creation Timestamp</span></p><p class="c11 c7"><span class="c14 c13"></span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c11"><span class="c1">Time stamp when the video was added </span></p></td></tr></table>
+
+
+###  Data included in the "subscription" CSV file from Youtube - Google
+<table class="c19"><tr class="c20"><td class="c0 c15" colspan="1" rowspan="1"><p class="c11"><span class="c12">Field Name</span></p></td><td class="c2 c15" colspan="1" rowspan="1"><p class="c11"><span class="c12">Description</span></p></td></tr><tr class="c22"><td class="c0" colspan="1" rowspan="1"><p class="c3"><span class="c10">Channel Id</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c3"><span class="c1">Subscribed channel ID </span></p></td></tr><tr class="c21"><td class="c0" colspan="1" rowspan="1"><p class="c3"><span class="c13 c12">Channel Url</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c3"><span class="c1">Subscribed channel URL link</span></p></td></tr><tr class="c21"><td class="c0" colspan="1" rowspan="1"><p class="c3"><span class="c13 c12">Channel Title</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c3"><span class="c1">Subscribed channel Title</span></p></td></tr></table>
