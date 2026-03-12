@@ -25,4 +25,4 @@ When requesting a copy of Netflix users data, it is delivered as a ZIP file. Ins
 
 The main categories of Netflix data are summarised below
 
-![Netflix DDP Taxonomy Mapping](Netflix_ddp.png)
+![Netflix DDP Taxonomy Mapping](Netflix_ddp.jpg)
