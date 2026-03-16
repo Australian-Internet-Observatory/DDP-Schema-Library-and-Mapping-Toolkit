@@ -5,7 +5,7 @@ YouTube data can be downloaded through the Google Takeout service, which provide
 
 The main categories of Youtube data are summarised below
 
-![Youtube DDP Taxonomy Mapping](Youtube_ddp.png)
+![Youtube DDP Taxonomy Mapping](Youtube_ddp.jpg)
 
 ## DDP Data Schema
 ### "watch and search history” HTML file from Youtube - Google.
