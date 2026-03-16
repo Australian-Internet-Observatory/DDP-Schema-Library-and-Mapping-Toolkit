@@ -27,5 +27,5 @@ The data is delivered as **CSV files**, organized into different folders.
 
 The main categories of FacebUberook data are summarised below
 
-![Uber DDP Taxonomy Mapping](Uber_ddp.png)
+![Uber DDP Taxonomy Mapping](Uber_ddp.JPG)
 
