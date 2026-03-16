@@ -29,5 +29,5 @@ The download data from Spotify account is a (zip) file that includes multiple js
 
 The main categories of Spotify data are summarised below
 
-![Spotify DDP Taxonomy Mapping](Spotify_ddp.png)
+![Spotify DDP Taxonomy Mapping](Spotify_ddp.JPG)
 
