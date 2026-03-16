@@ -56,5 +56,5 @@ These folders contain structured, detailed data from the user’s account, such 
 
 The main categories of X data are summarized bellow
 
-![X DDP Taxonomy Mapping](x_ddp.png)
+![X DDP Taxonomy Mapping](x_ddp.jpg)
 
