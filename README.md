@@ -1,25 +1,25 @@
-# Data Download Package Schema Library and Mapping Toolkit
-This repository accompanies the article **"Standardising Access to Digital Platform Data: A Taxonomy and Framework for Social Research"**, providing supplementary materials, platform-specific data schemas, and access guidance.  
+# Data Download Package Schema repository
+This repository accompanies the article **"Standardising Access to Digital Platform Data: A Taxonomy for Social Research"**, providing supplementary materials, platform-specific data schemas, and access guidance.  
 It is designed to help researchers navigate and utilise **Data Download Packages (DDPs)** for social science and computational research.
 
 ## Overview
 
-DDPs are standardized archives provided by digital platforms that allow users to request and download their personal data.  These archives can be voluntarily shared with researchers to support transparent, and user-centered data collection.
+DDPs are standardised archives provided by digital platforms that allow users to request and download their personal data.  These archives can be voluntarily shared with researchers to support transparent and user-centred data collection.
 
 This repository contains:
 - **Guidelines for accessing DDPs from different platforms**
 - **Platform-specific data schemas describing the structure, data types and components of downloaded data**
 - **Entity mappings aligned with the Unified Data Taxonomy proposed in our article**
-- **Example files and folder structures illustrating how data are organized within each platform’s package**
+- **Example files and folder structures illustrating how data are organised within each platform’s package**
 
 ## Repository Structure
-The repository is organized by platform, with one folder per service, Each folder includes:
+The repository is organised by platform, with one folder per service. Each folder includes:
 
 - **A guide explaining how to request and download the DDP**
 - **A summary of the data content, available formats, and expected download preparation time**
 - **A data schema file describing all major entities and their relationships**
 
-A summary table bellow lists all platforms included in this repository, along with key details such as data access options, available formats, and download characteristics.
+A summary table below lists all platforms included in this repository, along with key details such as data access options, available formats, and download characteristics.
 
 
 Table 1: Overview of Digital Platforms Included in the Repository and Their Data Download Package Characteristics.
