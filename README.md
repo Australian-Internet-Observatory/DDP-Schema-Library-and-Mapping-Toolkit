@@ -2,6 +2,7 @@
 This repository accompanies the article **"Standardising Access to Digital Platform Data: A Taxonomy for Social Research"**, providing supplementary materials, platform-specific data schemas, and access guidance.  
 It is designed to help researchers navigate and utilise **Data Download Packages (DDPs)** for social science and computational research.
 
+The manuscript is currently under review, while a preprint version is available at: https://osf.io/preprints/socarxiv/rqgd8_v1
 ## Overview
 
 DDPs are standardised archives provided by digital platforms that allow users to request and download their personal data.  These archives can be voluntarily shared with researchers to support transparent and user-centred data collection.
